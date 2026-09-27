@@ -1,0 +1,69 @@
+Brand,Model Name,Category,Inches,RAM (GB),Touchscreen,Weight (kg),Operating System,Price (USD)
+Acer,Aspire 5,Notebook,13.3,16,No,1.38,Chrome OS,538.56
+Lenovo,IdeaPad 3,Notebook,16.0,8,No,2.39,Linux,490.96
+Asus,ROG Strix,Gaming,16.0,16,No,1.17,Linux,1044.59
+Acer,Predator Helios,Gaming,17.3,8,No,1.48,Chrome OS,793.0
+MSI,GF63 Thin,Gaming,15.6,16,No,2.02,Windows 11,1144.16
+Acer,Nitro 5,Gaming,16.0,8,No,1.15,Chrome OS,751.96
+HP,Pavilion 15,Notebook,16.0,8,Yes,2.35,No OS,777.54
+HP,Pavilion 15,Notebook,13.3,8,No,1.43,Windows 11,628.89
+Acer,Nitro 5,Gaming,15.6,4,No,1.18,Chrome OS,821.7
+Apple,MacBook Pro,Ultrabook,14.0,4,No,2.35,macOS,1194.19
+Lenovo,Yoga 6,2 in 1 Convertible,13.3,16,Yes,2.11,Windows 11,1026.6
+Asus,ROG Strix,Gaming,14.0,8,No,1.94,No OS,893.47
+Lenovo,Legion 5,Gaming,15.6,8,No,2.19,Windows 10,980.91
+HP,Pavilion 15,Notebook,17.3,4,No,1.73,Windows 10,436.22
+HP,Spectre x360,2 in 1 Convertible,16.0,8,Yes,1.77,No OS,957.95
+Acer,Swift 3,Ultrabook,17.3,8,No,1.23,Chrome OS,771.71
+Asus,TUF Gaming A15,Gaming,17.3,4,No,1.74,No OS,884.84
+Lenovo,Legion 5,Gaming,13.3,8,No,2.18,Windows 10,972.05
+Dell,Vostro 14,Notebook,15.6,32,No,1.72,Linux,916.75
+Lenovo,IdeaPad 3,Notebook,16.0,16,No,2.43,Windows 10,741.58
+Acer,Aspire 5,Notebook,15.6,8,No,1.24,Windows 11,652.88
+Apple,MacBook Air,Ultrabook,13.3,8,No,1.75,macOS,1266.06
+Lenovo,IdeaPad 3,Notebook,14.0,16,No,2.14,Windows 10,732.11
+Asus,TUF Gaming A15,Gaming,17.3,8,No,1.75,Windows 11,1078.07
+Dell,Inspiron 15,Notebook,16.0,32,No,2.51,Windows 11,1080.31
+MSI,GS66 Stealth,Gaming,17.3,8,No,2.06,Windows 11,1031.72
+Dell,Vostro 14,Notebook,14.0,16,No,1.88,Windows 10,840.28
+Asus,ZenBook 14,Ultrabook,14.0,32,Yes,1.41,Windows 10,1314.69
+HP,Pavilion 15,Notebook,13.3,8,No,1.63,Windows 10,625.0
+Apple,MacBook Air,Ultrabook,16.0,8,Yes,2.46,macOS,1447.97
+Dell,Vostro 14,Notebook,15.6,16,No,1.99,Linux,701.82
+Asus,VivoBook 15,Notebook,15.6,8,No,2.18,Windows 11,569.63
+MSI,GS66 Stealth,Gaming,14.0,16,Yes,2.47,Windows 11,1288.84
+Acer,Aspire 5,Notebook,16.0,8,No,2.15,Chrome OS,435.53
+Lenovo,ThinkBook 14,Notebook,17.3,8,No,2.55,Windows 10,599.59
+Acer,Nitro 5,Gaming,17.3,4,No,1.91,Chrome OS,885.62
+MSI,Modern 14,Notebook,17.3,16,Yes,1.27,Windows 10,881.2
+Dell,XPS 13,Ultrabook,13.3,8,Yes,1.35,Linux,999.15
+HP,Envy 13,Notebook,15.6,8,No,2.0,Windows 11,604.09
+HP,EliteBook 840,Notebook,17.3,4,No,1.46,No OS,586.31
+HP,EliteBook 840,Notebook,13.3,32,No,1.15,Windows 11,1092.01
+Lenovo,Legion 5,Gaming,17.3,4,Yes,2.1,Windows 11,1032.84
+Lenovo,IdeaPad 3,Notebook,16.0,16,No,1.59,Linux,767.39
+HP,Envy 13,Notebook,15.6,16,No,1.38,Windows 10,787.49
+Apple,MacBook Air,Ultrabook,16.0,8,No,1.17,macOS,1251.8
+Dell,Inspiron 15,Notebook,15.6,32,No,1.4,Windows 10,1074.18
+HP,EliteBook 840,Notebook,13.3,8,No,1.16,Windows 10,473.59
+HP,EliteBook 840,Notebook,16.0,8,Yes,1.48,Windows 11,692.89
+Lenovo,Legion 5,Gaming,15.6,8,No,1.83,Windows 10,862.52
+Dell,Alienware M15,Gaming,17.3,4,No,1.17,Linux,892.28
+Asus,ZenBook 14,Ultrabook,17.3,8,No,1.3,Windows 11,752.38
+Dell,Inspiron 15,Notebook,15.6,16,No,2.56,No OS,769.68
+MSI,GS66 Stealth,Gaming,17.3,8,No,1.36,Windows 11,1040.43
+Dell,Alienware M15,Gaming,13.3,4,Yes,1.15,Windows 10,1007.51
+Asus,VivoBook 15,Notebook,17.3,16,No,1.21,Windows 11,770.73
+HP,Spectre x360,2 in 1 Convertible,15.6,4,Yes,1.63,Windows 11,743.32
+Apple,MacBook Pro,Ultrabook,14.0,4,No,1.36,macOS,1185.98
+Asus,TUF Gaming A15,Gaming,17.3,16,No,1.98,No OS,1241.67
+Apple,MacBook Air,Ultrabook,16.0,4,No,1.76,macOS,1278.85
+MSI,Modern 14,Notebook,17.3,4,No,2.57,Windows 10,566.38
+Apple,MacBook Pro,Ultrabook,15.6,4,No,1.6,macOS,1350.5
+Dell,Latitude 14,Notebook,14.0,4,No,2.03,Linux,517.26
+Apple,MacBook Air,Ultrabook,17.3,8,No,2.2,macOS,1222.13
+Dell,Alienware M15,Gaming,14.0,16,No,2.49,Windows 10,1043.6
+Apple,MacBook Air,Ultrabook,13.3,16,No,1.87,macOS,1309.62
+Apple,MacBook Air,Ultrabook,17.3,8,No,1.95,macOS,1251.73
+Dell,Latitude 14,Notebook,14.0,8,No,2.34,Windows 11,609.78
+Lenovo,Legion 5,Gaming,16.0,16,No,1.93,Linux,1111.37
